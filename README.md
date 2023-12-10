@@ -44,10 +44,10 @@ Our Confusion Matrix above also highlights some areas where large discrepancies 
 With further feedback and improvement changes, our machine learning model for blood stain detection can serve as a crucial element in deciphering the mysteries of criminal activities at a more efficient pace. With the main objective of making the detection of blood stains easier, our model can also help with providing a potential layout of the events that took place. This could greatly help forensic analysts who utilize our model for real-time and real-life accurate detection of blood stains. 
 
 ### Team Members
-Abis Naqvi
-Zara Iqbal
-Sriram Sendhil
-Amulya Rayabhagi
-Aarushi Gupta
-Nivedha Sreenivasan (Project Lead)
-Dr. Dohyeong Kim (Faculty Lead)
+- Abis Naqvi
+- Zara Iqbal
+- Sriram Sendhil
+- Amulya Rayabhagi
+- Aarushi Gupta
+- Nivedha Sreenivasan (Project Lead)
+- Dr. Dohyeong Kim (Faculty Lead)
